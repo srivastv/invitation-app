@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.varun.app;
 
 import java.io.IOException;
